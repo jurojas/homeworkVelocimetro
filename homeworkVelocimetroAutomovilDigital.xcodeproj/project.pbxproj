@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		405B45041CA2EEE2009B4C94 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 405B45031CA2EEE2009B4C94 /* AppDelegate.swift */; };
-		405B45061CA2EEE2009B4C94 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 405B45051CA2EEE2009B4C94 /* ViewController.swift */; };
+		405B45061CA2EEE2009B4C94 /* homeworkVelocimetroAutomovilDigital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 405B45051CA2EEE2009B4C94 /* homeworkVelocimetroAutomovilDigital.swift */; };
 		405B45091CA2EEE2009B4C94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 405B45071CA2EEE2009B4C94 /* Main.storyboard */; };
 		405B450B1CA2EEE2009B4C94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 405B450A1CA2EEE2009B4C94 /* Assets.xcassets */; };
 		405B450E1CA2EEE2009B4C94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 405B450C1CA2EEE2009B4C94 /* LaunchScreen.storyboard */; };
@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		405B45001CA2EEE2009B4C94 /* homeworkVelocimetroAutomovilDigital.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = homeworkVelocimetroAutomovilDigital.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		405B45031CA2EEE2009B4C94 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		405B45051CA2EEE2009B4C94 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		405B45051CA2EEE2009B4C94 /* homeworkVelocimetroAutomovilDigital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homeworkVelocimetroAutomovilDigital.swift; sourceTree = "<group>"; };
 		405B45081CA2EEE2009B4C94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		405B450A1CA2EEE2009B4C94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		405B450D1CA2EEE2009B4C94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -98,7 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				405B45031CA2EEE2009B4C94 /* AppDelegate.swift */,
-				405B45051CA2EEE2009B4C94 /* ViewController.swift */,
+				405B45051CA2EEE2009B4C94 /* homeworkVelocimetroAutomovilDigital.swift */,
 				405B45071CA2EEE2009B4C94 /* Main.storyboard */,
 				405B450A1CA2EEE2009B4C94 /* Assets.xcassets */,
 				405B450C1CA2EEE2009B4C94 /* LaunchScreen.storyboard */,
@@ -255,7 +255,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				405B45061CA2EEE2009B4C94 /* ViewController.swift in Sources */,
+				405B45061CA2EEE2009B4C94 /* homeworkVelocimetroAutomovilDigital.swift in Sources */,
 				405B45041CA2EEE2009B4C94 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
